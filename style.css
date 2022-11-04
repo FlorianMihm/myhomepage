@@ -14,7 +14,7 @@ p {
 
 .shadowbox {
 
-    box-shadow: 10px 0px 10px grey;
+    box-shadow: 3px 0px 15px black;
 }
 
 a,
@@ -60,7 +60,8 @@ a:focus {
 #sidebar {
     min-width: 250px;
     max-width: 250px;
-    background: #7386D5;
+    background: #103ffc;
+    /*background: #7386D5;*/
     color: #fff;
     transition: all 0.3s;
 }
@@ -71,7 +72,7 @@ a:focus {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    background: #6d7fcc;
+    background: #000000;
 }
 
 #sidebar ul.components {
